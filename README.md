@@ -40,19 +40,23 @@ The application is currently deployed (if applicable, provide link or indicate a
     ```
 4. Set up environment variables:
     - Create a `.env` file in the `backend` directory
-    - Add the necessary environment variables (details provided by the project maintainer)
+    - Add the following environment variables:
+      ```plaintext
+      MONGO_URI = your_mongodb_uri
+      PORT = 4000
+      SECRET = your_session_secret
+      ```
 
 5. Run the backend server:
     ```bash
     cd backend
-    npm start
+    npm run dev
     ```
 6. Run the frontend server:
     ```bash
     cd ../frontend
     npm start
     ```
-7. Access the application at `http://localhost:3000`
 
 ## Tutorial
 
@@ -63,6 +67,6 @@ This project was built by following the [MERN Stack Tutorial](provide_link_here)
 ![Workout Tracker Demo](./assets/demo1.gif)
 ![Workout Tracker Demo](./assets/demo2.gif)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+For any inquiries, feel free to reach out to:
+- Simone Franceska Emanuelle M. Capio - simone\_franceska\_capio@dlsu.edu.ph
