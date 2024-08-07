@@ -17,10 +17,6 @@ This project was developed by following a tutorial to learn the MERN stack and u
 - **Database**: MongoDB
 - **Styling**: CSS
 
-## Deployment
-
-The application is currently deployed (if applicable, provide link or indicate as not deployed).
-
 ## Project Setup
 
 1. Clone the repository:
@@ -65,7 +61,6 @@ This project was built by following the [MERN Stack Tutorial](https://www.youtub
 ## Demo
 
 ![Workout Tracker Demo](./assets/workout-1.gif)
-![Workout Tracker Demo](./assets/workout-2.gif)
 
 ## Contact
 For any inquiries, feel free to reach out to:
