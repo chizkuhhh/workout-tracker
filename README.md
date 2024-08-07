@@ -35,7 +35,7 @@ The application is currently deployed (if applicable, provide link or indicate a
     ```
 3. Install dependencies for the frontend:
     ```bash
-    cd ../frontend
+    cd frontend
     npm install
     ```
 4. Set up environment variables:
@@ -54,18 +54,18 @@ The application is currently deployed (if applicable, provide link or indicate a
     ```
 6. Run the frontend server:
     ```bash
-    cd ../frontend
+    cd frontend
     npm start
     ```
 
 ## Tutorial
 
-This project was built by following the [MERN Stack Tutorial](provide_link_here). Special thanks to the author for their comprehensive guide.
+This project was built by following the [MERN Stack Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE). Special thanks to the author for their comprehensive guide.
 
 ## Demo
 
-![Workout Tracker Demo](./assets/demo1.gif)
-![Workout Tracker Demo](./assets/demo2.gif)
+![Workout Tracker Demo](./assets/workout-1.gif)
+![Workout Tracker Demo](./assets/workout-2.gif)
 
 ## Contact
 For any inquiries, feel free to reach out to:
